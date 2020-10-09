@@ -1,6 +1,6 @@
 {
-  "name": "Gelumbang PWA",
-  "short_name": "Gelumbang PWA",
+  "name": "Gelumbang_PWA",
+  "short_name": "Gelumbang_PWA",
   "theme_color": "#00457c",
   "background_color": "#00457c",
   "display": "standalone",
